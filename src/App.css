@@ -1,38 +1,114 @@
-.App {
-  text-align: center;
+.app {
+  height: 100vh;
+  width: 100vw;
+  border-radius: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ant-card-head {
+  background: #ff85c0;
+  height: 84px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.app > .ant-card-body {
+  padding: 0;
+  background: #fff0f6;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.app-header {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  width: 100%;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 1;
+  font-variant: small-caps;
+
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.app-header .header-controls {
+  font-family: "Zilla Slab", serif;
+  font-weight: normal;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.app-header .header-controls .ant-select {
+  margin-right: 15px;
+  width: 125px;
+  font-size: 18px;
+}
+
+.app-header .header-controls .ant-select .ant-select-selector {
+  border-radius: 5px;
+}
+
+.app-header .header-controls .ant-form-item-label label {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+}
+
+.app-content {
+  width: 100%;
+  height: calc(100vh - 84px);
+
+  padding: 10px 50px 25px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.app-content .ant-card {
+  max-width: 275px;
+  border-radius: 5px;
+  margin: 10px;
+
+  -webkit-box-shadow: 0px 15px 25px -15px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 15px 25px -15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 15px 25px -15px rgba(0, 0, 0, 0.2);
+}
+
+.app-content .ant-card img {
+  height: auto;
+  width: 275px;
+}
+
+.app-content .ant-card .ant-card-actions {
+  border-radius: 0 0 5px 5px;
+}
+
+.app-content .ant-card .ant-card-actions .anticon {
+  font-size: 26px;
+  line-height: 1;
+}
+
+.app-content .ant-card .ant-card-actions li {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.app-content .ant-card .ant-card-actions li:hover {
+  background: #fafafa;
+}
+
+.app-content .ant-card .ant-card-body {
+  padding: 10px;
+}
+
+.app-content .ant-card .ant-card-meta-title {
+  font-size: 24px;
+  font-weight: 600;
+  font-variant: small-caps;
+
+  text-align: center;
 }
