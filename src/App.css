@@ -11,7 +11,7 @@
 
 .app > .ant-card-body {
   padding: 0;
-  background: #fff0f6;
+  background: #ffd6e7;
 }
 
 .app-header {
@@ -60,12 +60,29 @@
   width: 100%;
   height: calc(100vh - 84px);
 
-  padding: 10px 50px 25px;
+  padding: 10px 25px 20px;
 
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: flex-start;
+}
+
+.app-content .ant-ribbon-wrapper {
+  height: 100%;
+}
+
+.app-content .alchemy {
+  padding: 20px;
+  max-height: 100%;
+  height: 100%;
+  overflow-y: auto;
+  background: #fff0f6;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
 }
 
 .app-content .ant-card {
@@ -111,4 +128,56 @@
   font-variant: small-caps;
 
   text-align: center;
+}
+
+.app-content .alchemy-category {
+  margin-bottom: 10px;
+}
+
+.app-content .alchemy-category .category-header {
+  margin: 10px 10px 20px;
+  width: 100%;
+
+  line-height: 1.3;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'Raleway';
+
+  color: #f759ab;
+  border-bottom: 1px solid #c41d7f;
+}
+
+.app-content .alchemy-category .category-list {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 25px;
+}
+
+.app-content .alchemy-category .ant-avatar {
+  margin: 0 15px 25px;
+  background: #ffffff;
+  border: 2px solid #8c8c8c;
+}
+
+.app-content .alchemy-category .hatch-item img {
+  padding: 7px;
+}
+
+.alch-source-ribbon {
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.alch-source-ribbon .ant-ribbon-text a {
+  font-size: 16px;
+  font-family: 'Raleway';
+  font-weight: bold;
+  color: #ffffff;
 }
