@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dv-click-aid/static/css/main.26fd1b99.chunk.css",
-    "main.js": "/dv-click-aid/static/js/main.1f40a0f2.chunk.js",
-    "main.js.map": "/dv-click-aid/static/js/main.1f40a0f2.chunk.js.map",
-    "runtime-main.js": "/dv-click-aid/static/js/runtime-main.581728cd.js",
-    "runtime-main.js.map": "/dv-click-aid/static/js/runtime-main.581728cd.js.map",
+    "main.css": "/dv-click-aid/static/css/main.dc811784.chunk.css",
+    "main.js": "/dv-click-aid/static/js/main.6ac45772.chunk.js",
+    "main.js.map": "/dv-click-aid/static/js/main.6ac45772.chunk.js.map",
+    "runtime-main.js": "/dv-click-aid/static/js/runtime-main.53c56c3e.js",
+    "runtime-main.js.map": "/dv-click-aid/static/js/runtime-main.53c56c3e.js.map",
     "static/css/2.558413a2.chunk.css": "/dv-click-aid/static/css/2.558413a2.chunk.css",
-    "static/js/2.69ebcab5.chunk.js": "/dv-click-aid/static/js/2.69ebcab5.chunk.js",
-    "static/js/2.69ebcab5.chunk.js.map": "/dv-click-aid/static/js/2.69ebcab5.chunk.js.map",
-    "static/js/3.a5e6ace6.chunk.js": "/dv-click-aid/static/js/3.a5e6ace6.chunk.js",
-    "static/js/3.a5e6ace6.chunk.js.map": "/dv-click-aid/static/js/3.a5e6ace6.chunk.js.map",
+    "static/js/2.2dc56373.chunk.js": "/dv-click-aid/static/js/2.2dc56373.chunk.js",
+    "static/js/2.2dc56373.chunk.js.map": "/dv-click-aid/static/js/2.2dc56373.chunk.js.map",
+    "static/js/3.0b5312b7.chunk.js": "/dv-click-aid/static/js/3.0b5312b7.chunk.js",
+    "static/js/3.0b5312b7.chunk.js.map": "/dv-click-aid/static/js/3.0b5312b7.chunk.js.map",
     "index.html": "/dv-click-aid/index.html",
     "static/css/2.558413a2.chunk.css.map": "/dv-click-aid/static/css/2.558413a2.chunk.css.map",
-    "static/css/main.26fd1b99.chunk.css.map": "/dv-click-aid/static/css/main.26fd1b99.chunk.css.map",
-    "static/js/2.69ebcab5.chunk.js.LICENSE.txt": "/dv-click-aid/static/js/2.69ebcab5.chunk.js.LICENSE.txt"
+    "static/css/main.dc811784.chunk.css.map": "/dv-click-aid/static/css/main.dc811784.chunk.css.map",
+    "static/js/2.2dc56373.chunk.js.LICENSE.txt": "/dv-click-aid/static/js/2.2dc56373.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.581728cd.js",
+    "static/js/runtime-main.53c56c3e.js",
     "static/css/2.558413a2.chunk.css",
-    "static/js/2.69ebcab5.chunk.js",
-    "static/css/main.26fd1b99.chunk.css",
-    "static/js/main.1f40a0f2.chunk.js"
+    "static/js/2.2dc56373.chunk.js",
+    "static/css/main.dc811784.chunk.css",
+    "static/js/main.6ac45772.chunk.js"
   ]
 }
