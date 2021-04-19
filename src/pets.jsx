@@ -4,16 +4,13 @@ import { MessageTwoTone, HeartTwoTone } from "@ant-design/icons";
 import { map } from "lodash";
 
 import {
-  chatPet,
   chatPetLink,
-  patPet,
   patPetLink,
-  activatePet,
   petPageLink,
 } from "./utilities/petFuncs";
 
 const Pets = ({ data }) => (
-  <div className="pets-list-card">
+  <div className="pets-list">
     {map(data.pet_list, (pet) => {
       return (
         <Card
