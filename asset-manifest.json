@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dv-click-aid/static/css/main.dc811784.chunk.css",
-    "main.js": "/dv-click-aid/static/js/main.6ac45772.chunk.js",
-    "main.js.map": "/dv-click-aid/static/js/main.6ac45772.chunk.js.map",
+    "main.css": "/dv-click-aid/static/css/main.1997f84c.chunk.css",
+    "main.js": "/dv-click-aid/static/js/main.dd952e2c.chunk.js",
+    "main.js.map": "/dv-click-aid/static/js/main.dd952e2c.chunk.js.map",
     "runtime-main.js": "/dv-click-aid/static/js/runtime-main.53c56c3e.js",
     "runtime-main.js.map": "/dv-click-aid/static/js/runtime-main.53c56c3e.js.map",
     "static/css/2.558413a2.chunk.css": "/dv-click-aid/static/css/2.558413a2.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.0b5312b7.chunk.js.map": "/dv-click-aid/static/js/3.0b5312b7.chunk.js.map",
     "index.html": "/dv-click-aid/index.html",
     "static/css/2.558413a2.chunk.css.map": "/dv-click-aid/static/css/2.558413a2.chunk.css.map",
-    "static/css/main.dc811784.chunk.css.map": "/dv-click-aid/static/css/main.dc811784.chunk.css.map",
+    "static/css/main.1997f84c.chunk.css.map": "/dv-click-aid/static/css/main.1997f84c.chunk.css.map",
     "static/js/2.2dc56373.chunk.js.LICENSE.txt": "/dv-click-aid/static/js/2.2dc56373.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53c56c3e.js",
     "static/css/2.558413a2.chunk.css",
     "static/js/2.2dc56373.chunk.js",
-    "static/css/main.dc811784.chunk.css",
-    "static/js/main.6ac45772.chunk.js"
+    "static/css/main.1997f84c.chunk.css",
+    "static/js/main.dd952e2c.chunk.js"
   ]
 }
