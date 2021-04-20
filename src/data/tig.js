@@ -3,7 +3,7 @@ const tig_pets = [
     id: 1085652,
     name: "Tove",
     image:
-      "https://dappervolk.com/img/pet-accessories/8/8730-o94AjvlYA6-crystal-heart-pet.png",
+      "https://dappervolk.com/img/pet-accessories/9/9142-1xbeZs4xgu-crystal-heart-ev-pet-evolved.png",
   },
   {
     id: 289390,
